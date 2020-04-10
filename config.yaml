@@ -1,0 +1,8 @@
+
+database:
+  dbhost: 127.0.0.1
+  dbname: gorm_test_db
+  dbuser: root
+  dbpassword: root
+  dbport: 3306
+  
